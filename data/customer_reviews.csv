@@ -1,0 +1,501 @@
+review_id,customer_name,menu_item,rating,review_text,review_date,sentiment_bias
+1,Hendra Gunawan,Mie Goreng,4,"Makanan sangat enak dan lezat, rasanya autentik! Mie Goreng sangat recommended!",2025-06-20 09:26:20.736133,positive
+2,Dedi Kurniawan,Es Teh Manis,3,Tempat tidak terlalu besar tapi cukup nyaman.,2025-05-17 09:26:20.736133,neutral
+3,Joko Widodo,Gado-gado,3,Tempat tidak terlalu besar tapi cukup nyaman.,2025-05-25 09:26:20.736133,neutral
+4,Rudi Hartono,Es Teh Manis,3,"Rasa makanan standar, tidak terlalu enak atau tidak enak.",2025-06-26 09:26:20.736133,neutral
+5,Dedi Kurniawan,Soto Ayam,3,Harga terjangkau untuk kualitas yang diberikan.,2025-06-27 09:26:20.736133,neutral
+6,Rudi Hartono,Nasi Goreng,1,"Porsi kecil untuk harga yang mahal, tidak worth it. Nasi Goreng perlu diperbaiki.",2025-06-07 09:26:20.736133,negative
+7,Eko Prasetyo,Nasi Goreng,3,Harga terjangkau untuk kualitas yang diberikan.,2025-05-23 09:26:20.736133,neutral
+8,Siti Nurhaliza,Ayam Goreng,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Ayam Goreng sangat recommended!,2025-05-17 09:26:20.736133,positive
+9,Hendra Gunawan,Sate Ayam,3,Harga terjangkau untuk kualitas yang diberikan.,2025-05-23 09:26:20.736133,neutral
+10,Hendra Gunawan,Sate Ayam,4,Rasa makanan konsisten dan selalu enak setiap kali datang. Sate Ayam sangat recommended!,2025-07-28 09:26:20.736133,positive
+11,Bambang Sutejo,Nasi Goreng,1,Harga mahal untuk kualitas yang biasa saja. Nasi Goreng perlu diperbaiki.,2025-07-19 09:26:20.736133,negative
+12,Ratna Sari,Es Campur,5,"Chef handal, masakan terasa profesional dan lezat. Es Campur sangat recommended!",2025-05-29 09:26:20.736133,positive
+13,Arief Budiman,Nasi Goreng,1,"Masakan terlalu asin dan berminyak, tidak sehat. Nasi Goreng perlu diperbaiki.",2025-06-03 09:26:20.736133,negative
+14,Ratna Sari,Es Campur,5,"Makanan sangat enak dan lezat, rasanya autentik! Es Campur sangat recommended!",2025-05-09 09:26:20.736133,positive
+15,Agus Setiawan,Sate Ayam,4,"Chef handal, masakan terasa profesional dan lezat. Sate Ayam sangat recommended!",2025-07-09 09:26:20.736133,positive
+16,Eko Prasetyo,Gado-gado,1,Staff kurang ramah dan tidak membantu. Gado-gado perlu diperbaiki.,2025-06-16 09:26:20.736133,negative
+17,Bambang Sutejo,Es Jeruk,3,Lokasi mudah dijangkau dengan transportasi umum.,2025-05-13 09:26:20.736133,neutral
+18,Hendra Gunawan,Nasi Goreng,3,"Makanan biasa saja, tidak ada yang istimewa.",2025-06-15 09:26:20.736133,neutral
+19,Bambang Sutejo,Sate Ayam,2,"Rasa tidak konsisten, kadang enak kadang tidak. Sate Ayam perlu diperbaiki.",2025-06-05 09:26:20.736133,negative
+20,Nina Wati,Es Jeruk,4,Menu variatif dan ada pilihan untuk vegetarian. Es Jeruk sangat recommended!,2025-07-14 09:26:20.736133,positive
+21,Rudi Hartono,Nasi Goreng,3,Harga sesuai dengan porsi yang diberikan.,2025-05-22 09:26:20.736133,neutral
+22,Budi Santoso,Sate Ayam,4,Rasa makanan konsisten dan selalu enak setiap kali datang. Sate Ayam sangat recommended!,2025-05-22 09:26:20.736133,positive
+23,Joko Widodo,Nasi Goreng,1,"Porsi kecil untuk harga yang mahal, tidak worth it. Nasi Goreng perlu diperbaiki.",2025-07-16 09:26:20.736133,negative
+24,Siti Nurhaliza,Sate Ayam,2,"Porsi kecil untuk harga yang mahal, tidak worth it. Sate Ayam perlu diperbaiki.",2025-05-14 09:26:20.736133,negative
+25,Ahmad Rahman,Es Campur,3,Harga sesuai dengan porsi yang diberikan.,2025-06-12 09:26:20.736133,neutral
+26,Arief Budiman,Pisang Goreng,2,"Pelayanan lambat, harus menunggu lama untuk pesanan. Pisang Goreng perlu diperbaiki.",2025-05-11 09:26:20.736133,negative
+27,Sari Indah,Ayam Goreng,5,Menu variatif dan ada pilihan untuk vegetarian. Ayam Goreng sangat recommended!,2025-07-26 09:26:20.736133,positive
+28,Budi Santoso,Es Teh Manis,5,Menu variatif dan ada pilihan untuk vegetarian. Es Teh Manis sangat recommended!,2025-07-24 09:26:20.736133,positive
+29,Nina Wati,Soto Ayam,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Soto Ayam sangat recommended!",2025-07-28 09:26:20.736133,positive
+30,Hendra Gunawan,Nasi Goreng,1,"Rasa tidak konsisten, kadang enak kadang tidak. Nasi Goreng perlu diperbaiki.",2025-05-08 09:26:20.736133,negative
+31,Ahmad Rahman,Es Campur,2,"Porsi kecil untuk harga yang mahal, tidak worth it. Es Campur perlu diperbaiki.",2025-05-18 09:26:20.736133,negative
+32,Maya Sari,Sate Ayam,3,Tempat tidak terlalu besar tapi cukup nyaman.,2025-07-21 09:26:20.736133,neutral
+33,Bambang Sutejo,Mie Goreng,5,"Tempat strategis dan mudah dijangkau, parking juga luas. Mie Goreng sangat recommended!",2025-07-03 09:26:20.736133,positive
+34,Eko Prasetyo,Pisang Goreng,2,"Pelayanan lambat, harus menunggu lama untuk pesanan. Pisang Goreng perlu diperbaiki.",2025-05-09 09:26:20.736133,negative
+35,Arief Budiman,Gado-gado,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Gado-gado perlu diperbaiki.",2025-05-06 09:26:20.736133,negative
+36,Arief Budiman,Ayam Goreng,1,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Ayam Goreng perlu diperbaiki.",2025-06-14 09:26:20.736133,negative
+37,Maya Sari,Es Teh Manis,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Es Teh Manis perlu diperbaiki.",2025-05-11 09:26:20.736133,negative
+38,Rudi Hartono,Soto Ayam,5,"Bumbu pas dan tidak terlalu pedas, cocok untuk semua usia. Soto Ayam sangat recommended!",2025-05-29 09:26:20.736133,positive
+39,Rina Marlina,Nasi Goreng,4,"Chef handal, masakan terasa profesional dan lezat. Nasi Goreng sangat recommended!",2025-06-16 09:26:20.736133,positive
+40,Bambang Sutejo,Ayam Goreng,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Ayam Goreng sangat recommended!",2025-07-23 09:26:20.736133,positive
+41,Nina Wati,Mie Goreng,5,"Tempat strategis dan mudah dijangkau, parking juga luas. Mie Goreng sangat recommended!",2025-06-07 09:26:20.736133,positive
+42,Ratna Sari,Mie Goreng,1,"Makanan kurang enak, rasanya hambar dan tidak sesuai harga. Mie Goreng perlu diperbaiki.",2025-05-04 09:26:20.736133,negative
+43,Siti Nurhaliza,Pisang Goreng,1,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Pisang Goreng perlu diperbaiki.",2025-05-23 09:26:20.736133,negative
+44,Joko Widodo,Mie Goreng,1,Harga mahal untuk kualitas yang biasa saja. Mie Goreng perlu diperbaiki.,2025-06-06 09:26:20.736133,negative
+45,Rudi Hartono,Pisang Goreng,2,Menu terbatas dan tidak ada variasi. Pisang Goreng perlu diperbaiki.,2025-05-28 09:26:20.736133,negative
+46,Joko Widodo,Nasi Goreng,2,"Makanan kurang enak, rasanya hambar dan tidak sesuai harga. Nasi Goreng perlu diperbaiki.",2025-06-12 09:26:20.736133,negative
+47,Sari Indah,Es Teh Manis,4,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Es Teh Manis sangat recommended!",2025-06-24 09:26:20.736133,positive
+48,Arief Budiman,Pisang Goreng,4,"Porsi besar dan harga terjangkau, worth it banget! Pisang Goreng sangat recommended!",2025-05-19 09:26:20.736133,positive
+49,Arief Budiman,Nasi Goreng,4,Menu variatif dan ada pilihan untuk vegetarian. Nasi Goreng sangat recommended!,2025-05-28 09:26:20.736133,positive
+50,Hendra Gunawan,Pisang Goreng,4,Menu variatif dan ada pilihan untuk vegetarian. Pisang Goreng sangat recommended!,2025-06-17 09:26:20.736133,positive
+51,Siti Nurhaliza,Gado-gado,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Gado-gado perlu diperbaiki.",2025-06-22 09:26:20.736133,negative
+52,Yuni Safitri,Es Jeruk,5,"Tempat strategis dan mudah dijangkau, parking juga luas. Es Jeruk sangat recommended!",2025-07-30 09:26:20.736133,positive
+53,Maya Sari,Soto Ayam,4,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Soto Ayam sangat recommended!",2025-07-30 09:26:20.736133,positive
+54,Bambang Sutejo,Es Jeruk,3,Harga terjangkau untuk kualitas yang diberikan.,2025-06-04 09:26:20.736133,neutral
+55,Diana Putri,Ayam Goreng,2,Staff kurang ramah dan tidak membantu. Ayam Goreng perlu diperbaiki.,2025-07-14 09:26:20.736133,negative
+56,Rudi Hartono,Soto Ayam,4,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Soto Ayam sangat recommended!",2025-06-05 09:26:20.736133,positive
+57,Joko Widodo,Es Jeruk,4,"Bumbu pas dan tidak terlalu pedas, cocok untuk semua usia. Es Jeruk sangat recommended!",2025-07-01 09:26:20.736133,positive
+58,Budi Santoso,Es Teh Manis,2,"Rasa tidak konsisten, kadang enak kadang tidak. Es Teh Manis perlu diperbaiki.",2025-05-25 09:26:20.736133,negative
+59,Ahmad Rahman,Gado-gado,3,"Makanan biasa saja, tidak ada yang istimewa.",2025-06-15 09:26:20.736133,neutral
+60,Joko Widodo,Pisang Goreng,2,"Makanan kurang enak, rasanya hambar dan tidak sesuai harga. Pisang Goreng perlu diperbaiki.",2025-05-30 09:26:20.736133,negative
+61,Sari Indah,Mie Goreng,4,"Makanan sangat enak dan lezat, rasanya autentik! Mie Goreng sangat recommended!",2025-07-20 09:26:20.736133,positive
+62,Yuni Safitri,Sate Ayam,4,"Porsi besar dan harga terjangkau, worth it banget! Sate Ayam sangat recommended!",2025-05-16 09:26:20.736133,positive
+63,Joko Widodo,Soto Ayam,2,"Porsi kecil untuk harga yang mahal, tidak worth it. Soto Ayam perlu diperbaiki.",2025-06-20 09:26:20.736133,negative
+64,Ratna Sari,Gado-gado,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Gado-gado perlu diperbaiki.",2025-06-14 09:26:20.736133,negative
+65,Lina Marlina,Sate Ayam,4,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Sate Ayam sangat recommended!",2025-05-16 09:26:20.736133,positive
+66,Nina Wati,Es Campur,3,Staff cukup ramah dalam melayani.,2025-06-03 09:26:20.736133,neutral
+67,Budi Santoso,Es Teh Manis,3,"Rasa makanan standar, tidak terlalu enak atau tidak enak.",2025-05-05 09:26:20.736133,neutral
+68,Maya Sari,Soto Ayam,3,Staff cukup ramah dalam melayani.,2025-06-04 09:26:20.736133,neutral
+69,Arief Budiman,Es Teh Manis,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Es Teh Manis perlu diperbaiki.",2025-06-18 09:26:20.736133,negative
+70,Sari Indah,Gado-gado,4,Menu variatif dan ada pilihan untuk vegetarian. Gado-gado sangat recommended!,2025-05-15 09:26:20.736133,positive
+71,Arief Budiman,Es Teh Manis,5,Menu variatif dan ada pilihan untuk vegetarian. Es Teh Manis sangat recommended!,2025-07-01 09:26:20.736133,positive
+72,Diana Putri,Soto Ayam,4,"Tempat strategis dan mudah dijangkau, parking juga luas. Soto Ayam sangat recommended!",2025-05-20 09:26:20.736133,positive
+73,Dewi Putri,Ayam Goreng,2,"Pelayanan lambat, harus menunggu lama untuk pesanan. Ayam Goreng perlu diperbaiki.",2025-06-20 09:26:20.736133,negative
+74,Arief Budiman,Sate Ayam,1,"Makanan kurang enak, rasanya hambar dan tidak sesuai harga. Sate Ayam perlu diperbaiki.",2025-06-15 09:26:20.736133,negative
+75,Lina Marlina,Es Jeruk,5,"Makanan sangat enak dan lezat, rasanya autentik! Es Jeruk sangat recommended!",2025-05-08 09:26:20.736133,positive
+76,Dedi Kurniawan,Soto Ayam,4,"Bumbu pas dan tidak terlalu pedas, cocok untuk semua usia. Soto Ayam sangat recommended!",2025-06-19 09:26:20.736133,positive
+77,Ahmad Rahman,Nasi Goreng,4,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Nasi Goreng sangat recommended!",2025-06-03 09:26:20.736133,positive
+78,Diana Putri,Ayam Goreng,4,Rasa makanan konsisten dan selalu enak setiap kali datang. Ayam Goreng sangat recommended!,2025-05-23 09:26:20.736133,positive
+79,Nina Wati,Sate Ayam,3,Harga terjangkau untuk kualitas yang diberikan.,2025-07-12 09:26:20.736133,neutral
+80,Agus Setiawan,Es Teh Manis,1,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Es Teh Manis perlu diperbaiki.",2025-06-06 09:26:20.736133,negative
+81,Maya Sari,Ayam Goreng,5,"Bumbu pas dan tidak terlalu pedas, cocok untuk semua usia. Ayam Goreng sangat recommended!",2025-05-30 09:26:20.736133,positive
+82,Yuni Safitri,Es Teh Manis,4,Menu variatif dan ada pilihan untuk vegetarian. Es Teh Manis sangat recommended!,2025-05-25 09:26:20.736133,positive
+83,Diana Putri,Nasi Goreng,3,Tempat cukup bersih dan nyaman.,2025-07-06 09:26:20.736133,neutral
+84,Agus Setiawan,Es Campur,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Es Campur perlu diperbaiki.",2025-06-15 09:26:20.736133,negative
+85,Sari Indah,Es Teh Manis,5,"Tempat strategis dan mudah dijangkau, parking juga luas. Es Teh Manis sangat recommended!",2025-07-25 09:26:20.736133,positive
+86,Joko Widodo,Sate Ayam,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Sate Ayam sangat recommended!",2025-05-10 09:26:20.736133,positive
+87,Dewi Putri,Pisang Goreng,2,Harga mahal untuk kualitas yang biasa saja. Pisang Goreng perlu diperbaiki.,2025-07-30 09:26:20.736133,negative
+88,Rina Marlina,Pisang Goreng,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Pisang Goreng perlu diperbaiki.",2025-05-01 09:26:20.736133,negative
+89,Ahmad Rahman,Pisang Goreng,2,"Porsi kecil untuk harga yang mahal, tidak worth it. Pisang Goreng perlu diperbaiki.",2025-07-07 09:26:20.736133,negative
+90,Joko Widodo,Es Campur,2,"Pelayanan lambat, harus menunggu lama untuk pesanan. Es Campur perlu diperbaiki.",2025-05-06 09:26:20.736133,negative
+91,Agus Setiawan,Es Teh Manis,2,Staff kurang ramah dan tidak membantu. Es Teh Manis perlu diperbaiki.,2025-07-04 09:26:20.736133,negative
+92,Rina Marlina,Ayam Goreng,2,"Pelayanan lambat, harus menunggu lama untuk pesanan. Ayam Goreng perlu diperbaiki.",2025-05-10 09:26:20.736133,negative
+93,Sari Indah,Es Teh Manis,1,"Masakan terlalu asin dan berminyak, tidak sehat. Es Teh Manis perlu diperbaiki.",2025-06-10 09:26:20.736133,negative
+94,Agus Setiawan,Sate Ayam,4,"Tempat strategis dan mudah dijangkau, parking juga luas. Sate Ayam sangat recommended!",2025-05-01 09:26:20.736133,positive
+95,Dewi Putri,Sate Ayam,1,"Masakan terlalu asin dan berminyak, tidak sehat. Sate Ayam perlu diperbaiki.",2025-05-20 09:26:20.736133,negative
+96,Joko Widodo,Sate Ayam,3,Staff cukup ramah dalam melayani.,2025-07-15 09:26:20.736133,neutral
+97,Diana Putri,Es Teh Manis,4,"Chef handal, masakan terasa profesional dan lezat. Es Teh Manis sangat recommended!",2025-06-24 09:26:20.736133,positive
+98,Yuni Safitri,Soto Ayam,3,Lokasi mudah dijangkau dengan transportasi umum.,2025-06-29 09:26:20.736133,neutral
+99,Dedi Kurniawan,Pisang Goreng,5,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Pisang Goreng sangat recommended!",2025-05-14 09:26:20.736133,positive
+100,Arief Budiman,Sate Ayam,4,"Porsi besar dan harga terjangkau, worth it banget! Sate Ayam sangat recommended!",2025-05-05 09:26:20.736133,positive
+101,Agus Setiawan,Gado-gado,1,"Masakan terlalu asin dan berminyak, tidak sehat. Gado-gado perlu diperbaiki.",2025-07-12 09:26:20.736133,negative
+102,Siti Nurhaliza,Mie Goreng,5,"Makanan sangat enak dan lezat, rasanya autentik! Mie Goreng sangat recommended!",2025-06-11 09:26:20.736133,positive
+103,Nina Wati,Nasi Goreng,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Nasi Goreng perlu diperbaiki.",2025-07-09 09:26:20.736133,negative
+104,Agus Setiawan,Ayam Goreng,2,"Rasa tidak konsisten, kadang enak kadang tidak. Ayam Goreng perlu diperbaiki.",2025-07-27 09:26:20.736133,negative
+105,Eko Prasetyo,Mie Goreng,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Mie Goreng sangat recommended!",2025-07-29 09:26:20.736133,positive
+106,Rudi Hartono,Pisang Goreng,2,Harga mahal untuk kualitas yang biasa saja. Pisang Goreng perlu diperbaiki.,2025-06-04 09:26:20.736133,negative
+107,Dedi Kurniawan,Es Jeruk,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Es Jeruk perlu diperbaiki.",2025-06-19 09:26:20.736133,negative
+108,Lina Marlina,Gado-gado,2,"Makanan kurang enak, rasanya hambar dan tidak sesuai harga. Gado-gado perlu diperbaiki.",2025-05-07 09:26:20.736133,negative
+109,Diana Putri,Es Teh Manis,1,Menu terbatas dan tidak ada variasi. Es Teh Manis perlu diperbaiki.,2025-06-09 09:26:20.736133,negative
+110,Yuni Safitri,Es Jeruk,4,"Tempat strategis dan mudah dijangkau, parking juga luas. Es Jeruk sangat recommended!",2025-05-16 09:26:20.736133,positive
+111,Dedi Kurniawan,Ayam Goreng,4,Menu variatif dan ada pilihan untuk vegetarian. Ayam Goreng sangat recommended!,2025-06-07 09:26:20.736133,positive
+112,Agus Setiawan,Es Teh Manis,5,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Es Teh Manis sangat recommended!",2025-07-05 09:26:20.736133,positive
+113,Rina Marlina,Es Jeruk,2,"Pelayanan lambat, harus menunggu lama untuk pesanan. Es Jeruk perlu diperbaiki.",2025-06-19 09:26:20.736133,negative
+114,Siti Nurhaliza,Nasi Goreng,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Nasi Goreng perlu diperbaiki.",2025-06-17 09:26:20.736133,negative
+115,Sari Indah,Mie Goreng,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Mie Goreng sangat recommended!,2025-05-06 09:26:20.736133,positive
+116,Bambang Sutejo,Sate Ayam,3,Staff cukup ramah dalam melayani.,2025-07-26 09:26:20.736133,neutral
+117,Dedi Kurniawan,Soto Ayam,1,Menu terbatas dan tidak ada variasi. Soto Ayam perlu diperbaiki.,2025-05-03 09:26:20.736133,negative
+118,Joko Widodo,Es Jeruk,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Es Jeruk sangat recommended!,2025-06-27 09:26:20.736133,positive
+119,Yuni Safitri,Es Jeruk,2,"Rasa tidak konsisten, kadang enak kadang tidak. Es Jeruk perlu diperbaiki.",2025-05-19 09:26:20.736133,negative
+120,Dedi Kurniawan,Soto Ayam,5,"Bumbu pas dan tidak terlalu pedas, cocok untuk semua usia. Soto Ayam sangat recommended!",2025-05-26 09:26:20.736133,positive
+121,Dedi Kurniawan,Es Jeruk,5,"Bumbu pas dan tidak terlalu pedas, cocok untuk semua usia. Es Jeruk sangat recommended!",2025-06-21 09:26:20.736133,positive
+122,Budi Santoso,Ayam Goreng,2,"Tempat sempit dan berisik, tidak nyaman. Ayam Goreng perlu diperbaiki.",2025-07-19 09:26:20.736133,negative
+123,Maya Sari,Es Jeruk,5,"Makanan sangat enak dan lezat, rasanya autentik! Es Jeruk sangat recommended!",2025-06-02 09:26:20.736133,positive
+124,Dewi Putri,Ayam Goreng,4,Menu variatif dan ada pilihan untuk vegetarian. Ayam Goreng sangat recommended!,2025-05-10 09:26:20.736133,positive
+125,Bambang Sutejo,Pisang Goreng,1,"Porsi kecil untuk harga yang mahal, tidak worth it. Pisang Goreng perlu diperbaiki.",2025-06-07 09:26:20.736133,negative
+126,Dedi Kurniawan,Nasi Goreng,1,Menu terbatas dan tidak ada variasi. Nasi Goreng perlu diperbaiki.,2025-06-12 09:26:20.736133,negative
+127,Siti Nurhaliza,Sate Ayam,5,Menu variatif dan ada pilihan untuk vegetarian. Sate Ayam sangat recommended!,2025-05-10 09:26:20.736133,positive
+128,Budi Santoso,Ayam Goreng,4,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Ayam Goreng sangat recommended!",2025-06-22 09:26:20.736133,positive
+129,Nina Wati,Sate Ayam,2,"Pelayanan lambat, harus menunggu lama untuk pesanan. Sate Ayam perlu diperbaiki.",2025-06-23 09:26:20.736133,negative
+130,Agus Setiawan,Ayam Goreng,3,"Makanan biasa saja, tidak ada yang istimewa.",2025-05-01 09:26:20.736133,neutral
+131,Diana Putri,Ayam Goreng,5,"Chef handal, masakan terasa profesional dan lezat. Ayam Goreng sangat recommended!",2025-06-16 09:26:20.736133,positive
+132,Lina Marlina,Ayam Goreng,2,"Tempat sempit dan berisik, tidak nyaman. Ayam Goreng perlu diperbaiki.",2025-05-07 09:26:20.736133,negative
+133,Yuni Safitri,Gado-gado,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Gado-gado sangat recommended!",2025-06-20 09:26:20.736133,positive
+134,Diana Putri,Sate Ayam,2,"Tempat sempit dan berisik, tidak nyaman. Sate Ayam perlu diperbaiki.",2025-06-17 09:26:20.736133,negative
+135,Agus Setiawan,Es Jeruk,5,"Chef handal, masakan terasa profesional dan lezat. Es Jeruk sangat recommended!",2025-05-25 09:26:20.736133,positive
+136,Ahmad Rahman,Pisang Goreng,3,Staff cukup ramah dalam melayani.,2025-07-29 09:26:20.736133,neutral
+137,Yuni Safitri,Es Jeruk,1,Menu terbatas dan tidak ada variasi. Es Jeruk perlu diperbaiki.,2025-05-21 09:26:20.736133,negative
+138,Eko Prasetyo,Pisang Goreng,2,"Porsi kecil untuk harga yang mahal, tidak worth it. Pisang Goreng perlu diperbaiki.",2025-05-21 09:26:20.736133,negative
+139,Agus Setiawan,Pisang Goreng,3,Harga sesuai dengan porsi yang diberikan.,2025-07-20 09:26:20.736133,neutral
+140,Joko Widodo,Nasi Goreng,4,"Porsi besar dan harga terjangkau, worth it banget! Nasi Goreng sangat recommended!",2025-05-17 09:26:20.736133,positive
+141,Rina Marlina,Mie Goreng,3,Tempat tidak terlalu besar tapi cukup nyaman.,2025-05-10 09:26:20.736133,neutral
+142,Agus Setiawan,Es Campur,2,"Pelayanan lambat, harus menunggu lama untuk pesanan. Es Campur perlu diperbaiki.",2025-07-19 09:26:20.736133,negative
+143,Ratna Sari,Soto Ayam,3,Tempat cukup bersih dan nyaman.,2025-07-03 09:26:20.736133,neutral
+144,Ratna Sari,Pisang Goreng,3,Staff cukup ramah dalam melayani.,2025-06-23 09:26:20.736133,neutral
+145,Joko Widodo,Es Jeruk,2,"Tempat sempit dan berisik, tidak nyaman. Es Jeruk perlu diperbaiki.",2025-05-24 09:26:20.736133,negative
+146,Hendra Gunawan,Ayam Goreng,3,"Rasa makanan standar, tidak terlalu enak atau tidak enak.",2025-06-14 09:26:20.736133,neutral
+147,Yuni Safitri,Es Campur,5,"Chef handal, masakan terasa profesional dan lezat. Es Campur sangat recommended!",2025-05-06 09:26:20.736133,positive
+148,Yuni Safitri,Mie Goreng,5,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Mie Goreng sangat recommended!",2025-05-03 09:26:20.736133,positive
+149,Ahmad Rahman,Soto Ayam,3,"Rasa makanan standar, tidak terlalu enak atau tidak enak.",2025-06-06 09:26:20.736133,neutral
+150,Ahmad Rahman,Es Teh Manis,2,Menu terbatas dan tidak ada variasi. Es Teh Manis perlu diperbaiki.,2025-05-10 09:26:20.736133,negative
+151,Maya Sari,Nasi Goreng,2,Staff kurang ramah dan tidak membantu. Nasi Goreng perlu diperbaiki.,2025-05-08 09:26:20.736133,negative
+152,Lina Marlina,Es Campur,4,"Chef handal, masakan terasa profesional dan lezat. Es Campur sangat recommended!",2025-07-07 09:26:20.736133,positive
+153,Ahmad Rahman,Pisang Goreng,4,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Pisang Goreng sangat recommended!",2025-05-07 09:26:20.736133,positive
+154,Budi Santoso,Es Teh Manis,3,Harga sesuai dengan porsi yang diberikan.,2025-05-25 09:26:20.736133,neutral
+155,Ahmad Rahman,Nasi Goreng,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Nasi Goreng sangat recommended!",2025-07-27 09:26:20.736133,positive
+156,Sari Indah,Nasi Goreng,3,"Makanan biasa saja, tidak ada yang istimewa.",2025-05-19 09:26:20.736133,neutral
+157,Hendra Gunawan,Mie Goreng,4,Rasa makanan konsisten dan selalu enak setiap kali datang. Mie Goreng sangat recommended!,2025-06-14 09:26:20.736133,positive
+158,Dedi Kurniawan,Sate Ayam,1,Menu terbatas dan tidak ada variasi. Sate Ayam perlu diperbaiki.,2025-07-13 09:26:20.736133,negative
+159,Rudi Hartono,Sate Ayam,5,"Tempat strategis dan mudah dijangkau, parking juga luas. Sate Ayam sangat recommended!",2025-07-30 09:26:20.736133,positive
+160,Rina Marlina,Es Teh Manis,5,"Porsi besar dan harga terjangkau, worth it banget! Es Teh Manis sangat recommended!",2025-06-28 09:26:20.736133,positive
+161,Yuni Safitri,Soto Ayam,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Soto Ayam perlu diperbaiki.",2025-05-10 09:26:20.736133,negative
+162,Rina Marlina,Nasi Goreng,5,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Nasi Goreng sangat recommended!",2025-06-04 09:26:20.736133,positive
+163,Dewi Putri,Es Teh Manis,3,Staff cukup ramah dalam melayani.,2025-05-01 09:26:20.736133,neutral
+164,Siti Nurhaliza,Es Jeruk,5,"Chef handal, masakan terasa profesional dan lezat. Es Jeruk sangat recommended!",2025-05-31 09:26:20.736133,positive
+165,Maya Sari,Mie Goreng,3,"Rasa makanan standar, tidak terlalu enak atau tidak enak.",2025-05-28 09:26:20.736133,neutral
+166,Hendra Gunawan,Pisang Goreng,3,Lokasi mudah dijangkau dengan transportasi umum.,2025-07-23 09:26:20.736133,neutral
+167,Rina Marlina,Nasi Goreng,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Nasi Goreng perlu diperbaiki.",2025-06-29 09:26:20.736133,negative
+168,Rina Marlina,Es Jeruk,3,"Makanan biasa saja, tidak ada yang istimewa.",2025-06-13 09:26:20.736133,neutral
+169,Arief Budiman,Gado-gado,4,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Gado-gado sangat recommended!",2025-07-19 09:26:20.736133,positive
+170,Ratna Sari,Mie Goreng,1,"Porsi kecil untuk harga yang mahal, tidak worth it. Mie Goreng perlu diperbaiki.",2025-05-18 09:26:20.736133,negative
+171,Ahmad Rahman,Mie Goreng,3,"Pelayanan standar, tidak lambat tidak cepat.",2025-07-07 09:26:20.736133,neutral
+172,Dedi Kurniawan,Es Teh Manis,3,Lokasi mudah dijangkau dengan transportasi umum.,2025-05-24 09:26:20.736133,neutral
+173,Dewi Putri,Nasi Goreng,3,Tempat cukup bersih dan nyaman.,2025-05-17 09:26:20.736133,neutral
+174,Sari Indah,Sate Ayam,1,Staff kurang ramah dan tidak membantu. Sate Ayam perlu diperbaiki.,2025-06-26 09:26:20.736133,negative
+175,Diana Putri,Gado-gado,1,"Porsi kecil untuk harga yang mahal, tidak worth it. Gado-gado perlu diperbaiki.",2025-05-22 09:26:20.736133,negative
+176,Joko Widodo,Es Campur,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Es Campur sangat recommended!,2025-06-28 09:26:20.736133,positive
+177,Yuni Safitri,Gado-gado,4,"Chef handal, masakan terasa profesional dan lezat. Gado-gado sangat recommended!",2025-06-02 09:26:20.736133,positive
+178,Sari Indah,Nasi Goreng,1,"Rasa tidak konsisten, kadang enak kadang tidak. Nasi Goreng perlu diperbaiki.",2025-06-23 09:26:20.736133,negative
+179,Budi Santoso,Es Jeruk,2,"Tempat sempit dan berisik, tidak nyaman. Es Jeruk perlu diperbaiki.",2025-06-14 09:26:20.736133,negative
+180,Agus Setiawan,Soto Ayam,3,"Pelayanan standar, tidak lambat tidak cepat.",2025-05-11 09:26:20.736133,neutral
+181,Maya Sari,Ayam Goreng,1,"Makanan kurang enak, rasanya hambar dan tidak sesuai harga. Ayam Goreng perlu diperbaiki.",2025-05-13 09:26:20.736133,negative
+182,Hendra Gunawan,Es Campur,1,"Tempat sempit dan berisik, tidak nyaman. Es Campur perlu diperbaiki.",2025-05-01 09:26:20.736133,negative
+183,Siti Nurhaliza,Soto Ayam,3,"Pelayanan standar, tidak lambat tidak cepat.",2025-05-30 09:26:20.736133,neutral
+184,Ratna Sari,Ayam Goreng,2,Menu terbatas dan tidak ada variasi. Ayam Goreng perlu diperbaiki.,2025-05-27 09:26:20.736133,negative
+185,Dedi Kurniawan,Es Campur,4,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Es Campur sangat recommended!",2025-05-29 09:26:20.736133,positive
+186,Ratna Sari,Ayam Goreng,3,"Makanan biasa saja, tidak ada yang istimewa.",2025-05-05 09:26:20.736133,neutral
+187,Ahmad Rahman,Es Campur,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Es Campur perlu diperbaiki.",2025-07-17 09:26:20.736133,negative
+188,Maya Sari,Es Jeruk,2,"Masakan terlalu asin dan berminyak, tidak sehat. Es Jeruk perlu diperbaiki.",2025-07-03 09:26:20.736133,negative
+189,Ahmad Rahman,Sate Ayam,4,"Chef handal, masakan terasa profesional dan lezat. Sate Ayam sangat recommended!",2025-06-12 09:26:20.736133,positive
+190,Diana Putri,Es Campur,3,"Makanan biasa saja, tidak ada yang istimewa.",2025-05-10 09:26:20.736133,neutral
+191,Diana Putri,Mie Goreng,2,Harga mahal untuk kualitas yang biasa saja. Mie Goreng perlu diperbaiki.,2025-06-28 09:26:20.736133,negative
+192,Diana Putri,Nasi Goreng,3,Tempat tidak terlalu besar tapi cukup nyaman.,2025-06-14 09:26:20.736133,neutral
+193,Bambang Sutejo,Sate Ayam,2,Menu terbatas dan tidak ada variasi. Sate Ayam perlu diperbaiki.,2025-05-29 09:26:20.736133,negative
+194,Sari Indah,Pisang Goreng,2,"Tempat sempit dan berisik, tidak nyaman. Pisang Goreng perlu diperbaiki.",2025-06-10 09:26:20.736133,negative
+195,Budi Santoso,Gado-gado,1,"Tempat sempit dan berisik, tidak nyaman. Gado-gado perlu diperbaiki.",2025-07-10 09:26:20.736133,negative
+196,Dewi Putri,Es Jeruk,1,Staff kurang ramah dan tidak membantu. Es Jeruk perlu diperbaiki.,2025-05-03 09:26:20.736133,negative
+197,Siti Nurhaliza,Ayam Goreng,1,"Rasa tidak konsisten, kadang enak kadang tidak. Ayam Goreng perlu diperbaiki.",2025-07-21 09:26:20.736133,negative
+198,Rina Marlina,Es Campur,5,"Tempat strategis dan mudah dijangkau, parking juga luas. Es Campur sangat recommended!",2025-06-15 09:26:20.736133,positive
+199,Lina Marlina,Soto Ayam,5,"Tempat strategis dan mudah dijangkau, parking juga luas. Soto Ayam sangat recommended!",2025-06-26 09:26:20.736133,positive
+200,Ratna Sari,Nasi Goreng,5,"Tempat strategis dan mudah dijangkau, parking juga luas. Nasi Goreng sangat recommended!",2025-06-16 09:26:20.736133,positive
+201,Rina Marlina,Es Jeruk,2,"Tempat sempit dan berisik, tidak nyaman. Es Jeruk perlu diperbaiki.",2025-07-07 09:26:20.736133,negative
+202,Budi Santoso,Es Teh Manis,4,"Porsi besar dan harga terjangkau, worth it banget! Es Teh Manis sangat recommended!",2025-07-16 09:26:20.736133,positive
+203,Rina Marlina,Pisang Goreng,1,Staff kurang ramah dan tidak membantu. Pisang Goreng perlu diperbaiki.,2025-05-07 09:26:20.736133,negative
+204,Arief Budiman,Mie Goreng,2,"Masakan terlalu asin dan berminyak, tidak sehat. Mie Goreng perlu diperbaiki.",2025-05-13 09:26:20.736133,negative
+205,Arief Budiman,Es Campur,1,Staff kurang ramah dan tidak membantu. Es Campur perlu diperbaiki.,2025-07-01 09:26:20.736133,negative
+206,Rina Marlina,Soto Ayam,1,"Tempat sempit dan berisik, tidak nyaman. Soto Ayam perlu diperbaiki.",2025-06-09 09:26:20.736133,negative
+207,Rina Marlina,Es Jeruk,5,"Tempat strategis dan mudah dijangkau, parking juga luas. Es Jeruk sangat recommended!",2025-06-25 09:26:20.736133,positive
+208,Agus Setiawan,Soto Ayam,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Soto Ayam sangat recommended!",2025-05-17 09:26:20.736133,positive
+209,Eko Prasetyo,Pisang Goreng,1,Harga mahal untuk kualitas yang biasa saja. Pisang Goreng perlu diperbaiki.,2025-05-09 09:26:20.736133,negative
+210,Nina Wati,Es Teh Manis,4,"Chef handal, masakan terasa profesional dan lezat. Es Teh Manis sangat recommended!",2025-05-31 09:26:20.736133,positive
+211,Dedi Kurniawan,Ayam Goreng,5,Menu variatif dan ada pilihan untuk vegetarian. Ayam Goreng sangat recommended!,2025-05-18 09:26:20.736133,positive
+212,Joko Widodo,Mie Goreng,5,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Mie Goreng sangat recommended!",2025-06-03 09:26:20.736133,positive
+213,Agus Setiawan,Es Jeruk,5,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Es Jeruk sangat recommended!",2025-07-04 09:26:20.736133,positive
+214,Diana Putri,Es Campur,2,"Tempat sempit dan berisik, tidak nyaman. Es Campur perlu diperbaiki.",2025-06-09 09:26:20.736133,negative
+215,Lina Marlina,Pisang Goreng,2,"Tempat sempit dan berisik, tidak nyaman. Pisang Goreng perlu diperbaiki.",2025-06-04 09:26:20.736133,negative
+216,Eko Prasetyo,Es Teh Manis,5,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Es Teh Manis sangat recommended!",2025-06-18 09:26:20.736133,positive
+217,Diana Putri,Gado-gado,3,"Rasa makanan standar, tidak terlalu enak atau tidak enak.",2025-06-11 09:26:20.736133,neutral
+218,Lina Marlina,Ayam Goreng,3,Lokasi mudah dijangkau dengan transportasi umum.,2025-06-02 09:26:20.736133,neutral
+219,Nina Wati,Ayam Goreng,1,"Masakan terlalu asin dan berminyak, tidak sehat. Ayam Goreng perlu diperbaiki.",2025-05-18 09:26:20.736133,negative
+220,Eko Prasetyo,Es Jeruk,2,Harga mahal untuk kualitas yang biasa saja. Es Jeruk perlu diperbaiki.,2025-06-21 09:26:20.736133,negative
+221,Eko Prasetyo,Es Jeruk,1,"Tempat sempit dan berisik, tidak nyaman. Es Jeruk perlu diperbaiki.",2025-05-20 09:26:20.736133,negative
+222,Arief Budiman,Es Jeruk,1,"Rasa tidak konsisten, kadang enak kadang tidak. Es Jeruk perlu diperbaiki.",2025-05-17 09:26:20.736133,negative
+223,Eko Prasetyo,Soto Ayam,2,"Masakan terlalu asin dan berminyak, tidak sehat. Soto Ayam perlu diperbaiki.",2025-07-04 09:26:20.736133,negative
+224,Rina Marlina,Ayam Goreng,2,Staff kurang ramah dan tidak membantu. Ayam Goreng perlu diperbaiki.,2025-07-22 09:26:20.736133,negative
+225,Agus Setiawan,Mie Goreng,2,"Masakan terlalu asin dan berminyak, tidak sehat. Mie Goreng perlu diperbaiki.",2025-07-03 09:26:20.736133,negative
+226,Dewi Putri,Es Teh Manis,5,"Makanan sangat enak dan lezat, rasanya autentik! Es Teh Manis sangat recommended!",2025-05-26 09:26:20.736133,positive
+227,Siti Nurhaliza,Ayam Goreng,2,Menu terbatas dan tidak ada variasi. Ayam Goreng perlu diperbaiki.,2025-06-23 09:26:20.736133,negative
+228,Ratna Sari,Mie Goreng,3,Harga sesuai dengan porsi yang diberikan.,2025-06-26 09:26:20.736133,neutral
+229,Sari Indah,Ayam Goreng,1,"Rasa tidak konsisten, kadang enak kadang tidak. Ayam Goreng perlu diperbaiki.",2025-07-13 09:26:20.736133,negative
+230,Dewi Putri,Pisang Goreng,5,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Pisang Goreng sangat recommended!",2025-07-13 09:26:20.736133,positive
+231,Joko Widodo,Gado-gado,1,"Tempat sempit dan berisik, tidak nyaman. Gado-gado perlu diperbaiki.",2025-05-18 09:26:20.736133,negative
+232,Dedi Kurniawan,Soto Ayam,3,Tempat cukup bersih dan nyaman.,2025-05-15 09:26:20.736133,neutral
+233,Agus Setiawan,Soto Ayam,3,Tempat cukup bersih dan nyaman.,2025-06-14 09:26:20.736133,neutral
+234,Dedi Kurniawan,Es Teh Manis,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Es Teh Manis sangat recommended!,2025-06-15 09:26:20.736133,positive
+235,Diana Putri,Es Campur,1,"Tempat sempit dan berisik, tidak nyaman. Es Campur perlu diperbaiki.",2025-05-31 09:26:20.736133,negative
+236,Nina Wati,Es Teh Manis,3,Staff cukup ramah dalam melayani.,2025-06-07 09:26:20.736133,neutral
+237,Siti Nurhaliza,Pisang Goreng,2,Menu terbatas dan tidak ada variasi. Pisang Goreng perlu diperbaiki.,2025-07-27 09:26:20.736133,negative
+238,Bambang Sutejo,Sate Ayam,5,"Porsi besar dan harga terjangkau, worth it banget! Sate Ayam sangat recommended!",2025-05-01 09:26:20.736133,positive
+239,Maya Sari,Soto Ayam,4,"Chef handal, masakan terasa profesional dan lezat. Soto Ayam sangat recommended!",2025-06-06 09:26:20.736133,positive
+240,Hendra Gunawan,Es Jeruk,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Es Jeruk perlu diperbaiki.",2025-07-16 09:26:20.736133,negative
+241,Yuni Safitri,Soto Ayam,3,Lokasi mudah dijangkau dengan transportasi umum.,2025-05-20 09:26:20.736133,neutral
+242,Sari Indah,Sate Ayam,3,"Rasa makanan standar, tidak terlalu enak atau tidak enak.",2025-07-24 09:26:20.736133,neutral
+243,Ahmad Rahman,Es Jeruk,2,Harga mahal untuk kualitas yang biasa saja. Es Jeruk perlu diperbaiki.,2025-07-09 09:26:20.736133,negative
+244,Rina Marlina,Gado-gado,4,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Gado-gado sangat recommended!",2025-05-12 09:26:20.736133,positive
+245,Siti Nurhaliza,Pisang Goreng,1,Harga mahal untuk kualitas yang biasa saja. Pisang Goreng perlu diperbaiki.,2025-06-09 09:26:20.736133,negative
+246,Lina Marlina,Es Campur,2,Staff kurang ramah dan tidak membantu. Es Campur perlu diperbaiki.,2025-07-13 09:26:20.736133,negative
+247,Budi Santoso,Mie Goreng,2,"Makanan kurang enak, rasanya hambar dan tidak sesuai harga. Mie Goreng perlu diperbaiki.",2025-05-08 09:26:20.736133,negative
+248,Dedi Kurniawan,Nasi Goreng,1,Menu terbatas dan tidak ada variasi. Nasi Goreng perlu diperbaiki.,2025-07-30 09:26:20.736133,negative
+249,Dewi Putri,Pisang Goreng,1,Harga mahal untuk kualitas yang biasa saja. Pisang Goreng perlu diperbaiki.,2025-05-15 09:26:20.736133,negative
+250,Budi Santoso,Gado-gado,3,Harga sesuai dengan porsi yang diberikan.,2025-07-29 09:26:20.736133,neutral
+251,Rina Marlina,Sate Ayam,2,"Masakan terlalu asin dan berminyak, tidak sehat. Sate Ayam perlu diperbaiki.",2025-06-25 09:26:20.736133,negative
+252,Arief Budiman,Es Campur,1,"Rasa tidak konsisten, kadang enak kadang tidak. Es Campur perlu diperbaiki.",2025-07-10 09:26:20.736133,negative
+253,Eko Prasetyo,Ayam Goreng,2,"Rasa tidak konsisten, kadang enak kadang tidak. Ayam Goreng perlu diperbaiki.",2025-05-07 09:26:20.736133,negative
+254,Ahmad Rahman,Mie Goreng,1,"Porsi kecil untuk harga yang mahal, tidak worth it. Mie Goreng perlu diperbaiki.",2025-07-25 09:26:20.736133,negative
+255,Joko Widodo,Gado-gado,2,Harga mahal untuk kualitas yang biasa saja. Gado-gado perlu diperbaiki.,2025-05-25 09:26:20.736133,negative
+256,Nina Wati,Soto Ayam,1,"Masakan terlalu asin dan berminyak, tidak sehat. Soto Ayam perlu diperbaiki.",2025-07-18 09:26:20.736133,negative
+257,Bambang Sutejo,Soto Ayam,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Soto Ayam sangat recommended!,2025-06-04 09:26:20.736133,positive
+258,Sari Indah,Pisang Goreng,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Pisang Goreng perlu diperbaiki.",2025-06-29 09:26:20.736133,negative
+259,Dewi Putri,Es Jeruk,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Es Jeruk perlu diperbaiki.",2025-05-30 09:26:20.736133,negative
+260,Diana Putri,Ayam Goreng,4,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Ayam Goreng sangat recommended!",2025-07-05 09:26:20.736133,positive
+261,Arief Budiman,Soto Ayam,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Soto Ayam sangat recommended!",2025-07-02 09:26:20.736133,positive
+262,Eko Prasetyo,Ayam Goreng,2,Harga mahal untuk kualitas yang biasa saja. Ayam Goreng perlu diperbaiki.,2025-06-10 09:26:20.736133,negative
+263,Sari Indah,Pisang Goreng,3,"Rasa makanan standar, tidak terlalu enak atau tidak enak.",2025-07-11 09:26:20.736133,neutral
+264,Siti Nurhaliza,Es Campur,5,"Tempat strategis dan mudah dijangkau, parking juga luas. Es Campur sangat recommended!",2025-05-09 09:26:20.736133,positive
+265,Yuni Safitri,Soto Ayam,3,Harga terjangkau untuk kualitas yang diberikan.,2025-05-06 09:26:20.736133,neutral
+266,Ahmad Rahman,Nasi Goreng,5,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Nasi Goreng sangat recommended!",2025-05-18 09:26:20.736133,positive
+267,Sari Indah,Es Campur,5,"Chef handal, masakan terasa profesional dan lezat. Es Campur sangat recommended!",2025-05-05 09:26:20.736133,positive
+268,Ahmad Rahman,Soto Ayam,3,Staff cukup ramah dalam melayani.,2025-07-24 09:26:20.736133,neutral
+269,Joko Widodo,Soto Ayam,3,Staff cukup ramah dalam melayani.,2025-06-06 09:26:20.736133,neutral
+270,Lina Marlina,Es Teh Manis,4,"Chef handal, masakan terasa profesional dan lezat. Es Teh Manis sangat recommended!",2025-06-19 09:26:20.736133,positive
+271,Arief Budiman,Es Teh Manis,2,Menu terbatas dan tidak ada variasi. Es Teh Manis perlu diperbaiki.,2025-06-07 09:26:20.736133,negative
+272,Joko Widodo,Gado-gado,5,Menu variatif dan ada pilihan untuk vegetarian. Gado-gado sangat recommended!,2025-07-29 09:26:20.736133,positive
+273,Dedi Kurniawan,Soto Ayam,1,"Rasa tidak konsisten, kadang enak kadang tidak. Soto Ayam perlu diperbaiki.",2025-07-26 09:26:20.736133,negative
+274,Diana Putri,Es Campur,1,Harga mahal untuk kualitas yang biasa saja. Es Campur perlu diperbaiki.,2025-07-16 09:26:20.736133,negative
+275,Diana Putri,Es Teh Manis,5,Menu variatif dan ada pilihan untuk vegetarian. Es Teh Manis sangat recommended!,2025-07-25 09:26:20.736133,positive
+276,Maya Sari,Gado-gado,1,Menu terbatas dan tidak ada variasi. Gado-gado perlu diperbaiki.,2025-07-27 09:26:20.736133,negative
+277,Lina Marlina,Es Teh Manis,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Es Teh Manis perlu diperbaiki.",2025-06-22 09:26:20.736133,negative
+278,Nina Wati,Es Campur,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Es Campur sangat recommended!",2025-06-15 09:26:20.736133,positive
+279,Agus Setiawan,Nasi Goreng,1,"Rasa tidak konsisten, kadang enak kadang tidak. Nasi Goreng perlu diperbaiki.",2025-05-17 09:26:20.736133,negative
+280,Arief Budiman,Pisang Goreng,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Pisang Goreng sangat recommended!,2025-07-19 09:26:20.736133,positive
+281,Hendra Gunawan,Es Jeruk,1,Harga mahal untuk kualitas yang biasa saja. Es Jeruk perlu diperbaiki.,2025-06-18 09:26:20.736133,negative
+282,Bambang Sutejo,Es Teh Manis,3,Menu cukup variatif untuk ukuran restoran ini.,2025-06-30 09:26:20.736133,neutral
+283,Rina Marlina,Ayam Goreng,3,Harga terjangkau untuk kualitas yang diberikan.,2025-05-23 09:26:20.736133,neutral
+284,Dewi Putri,Es Campur,3,"Pelayanan standar, tidak lambat tidak cepat.",2025-06-19 09:26:20.736133,neutral
+285,Agus Setiawan,Pisang Goreng,4,"Makanan sangat enak dan lezat, rasanya autentik! Pisang Goreng sangat recommended!",2025-05-29 09:26:20.736133,positive
+286,Rina Marlina,Nasi Goreng,4,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Nasi Goreng sangat recommended!",2025-05-28 09:26:20.736133,positive
+287,Dewi Putri,Ayam Goreng,4,Rasa makanan konsisten dan selalu enak setiap kali datang. Ayam Goreng sangat recommended!,2025-06-01 09:26:20.736133,positive
+288,Agus Setiawan,Soto Ayam,1,"Rasa tidak konsisten, kadang enak kadang tidak. Soto Ayam perlu diperbaiki.",2025-07-27 09:26:20.736133,negative
+289,Sari Indah,Es Campur,3,Harga terjangkau untuk kualitas yang diberikan.,2025-06-10 09:26:20.736133,neutral
+290,Ahmad Rahman,Soto Ayam,1,"Masakan terlalu asin dan berminyak, tidak sehat. Soto Ayam perlu diperbaiki.",2025-05-07 09:26:20.736133,negative
+291,Arief Budiman,Es Jeruk,1,"Rasa tidak konsisten, kadang enak kadang tidak. Es Jeruk perlu diperbaiki.",2025-06-14 09:26:20.736133,negative
+292,Rina Marlina,Gado-gado,4,"Porsi besar dan harga terjangkau, worth it banget! Gado-gado sangat recommended!",2025-05-23 09:26:20.736133,positive
+293,Dedi Kurniawan,Es Jeruk,1,Staff kurang ramah dan tidak membantu. Es Jeruk perlu diperbaiki.,2025-06-08 09:26:20.736133,negative
+294,Eko Prasetyo,Gado-gado,5,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Gado-gado sangat recommended!",2025-05-10 09:26:20.736133,positive
+295,Siti Nurhaliza,Nasi Goreng,2,Harga mahal untuk kualitas yang biasa saja. Nasi Goreng perlu diperbaiki.,2025-07-13 09:26:20.736133,negative
+296,Nina Wati,Es Teh Manis,5,"Bumbu pas dan tidak terlalu pedas, cocok untuk semua usia. Es Teh Manis sangat recommended!",2025-05-25 09:26:20.736133,positive
+297,Ratna Sari,Ayam Goreng,3,"Pelayanan standar, tidak lambat tidak cepat.",2025-05-13 09:26:20.736133,neutral
+298,Agus Setiawan,Gado-gado,3,Menu cukup variatif untuk ukuran restoran ini.,2025-05-09 09:26:20.736133,neutral
+299,Arief Budiman,Nasi Goreng,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Nasi Goreng sangat recommended!",2025-06-26 09:26:20.736133,positive
+300,Arief Budiman,Es Teh Manis,4,"Makanan sangat enak dan lezat, rasanya autentik! Es Teh Manis sangat recommended!",2025-05-28 09:26:20.736133,positive
+301,Yuni Safitri,Sate Ayam,2,"Masakan terlalu asin dan berminyak, tidak sehat. Sate Ayam perlu diperbaiki.",2025-05-03 09:26:20.736133,negative
+302,Siti Nurhaliza,Es Teh Manis,5,"Tempat strategis dan mudah dijangkau, parking juga luas. Es Teh Manis sangat recommended!",2025-06-14 09:26:20.736133,positive
+303,Diana Putri,Nasi Goreng,2,Staff kurang ramah dan tidak membantu. Nasi Goreng perlu diperbaiki.,2025-05-04 09:26:20.736133,negative
+304,Diana Putri,Soto Ayam,3,Lokasi mudah dijangkau dengan transportasi umum.,2025-05-18 09:26:20.736133,neutral
+305,Hendra Gunawan,Mie Goreng,1,"Porsi kecil untuk harga yang mahal, tidak worth it. Mie Goreng perlu diperbaiki.",2025-06-28 09:26:20.736133,negative
+306,Bambang Sutejo,Pisang Goreng,3,Harga terjangkau untuk kualitas yang diberikan.,2025-06-24 09:26:20.736133,neutral
+307,Dedi Kurniawan,Ayam Goreng,3,Tempat tidak terlalu besar tapi cukup nyaman.,2025-07-26 09:26:20.736133,neutral
+308,Agus Setiawan,Sate Ayam,4,Rasa makanan konsisten dan selalu enak setiap kali datang. Sate Ayam sangat recommended!,2025-06-19 09:26:20.736133,positive
+309,Maya Sari,Ayam Goreng,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Ayam Goreng perlu diperbaiki.",2025-05-22 09:26:20.736133,negative
+310,Siti Nurhaliza,Mie Goreng,5,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Mie Goreng sangat recommended!",2025-07-28 09:26:20.736133,positive
+311,Dewi Putri,Sate Ayam,3,"Pelayanan standar, tidak lambat tidak cepat.",2025-05-17 09:26:20.736133,neutral
+312,Diana Putri,Mie Goreng,4,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Mie Goreng sangat recommended!",2025-06-26 09:26:20.736133,positive
+313,Eko Prasetyo,Gado-gado,4,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Gado-gado sangat recommended!",2025-05-30 09:26:20.736133,positive
+314,Dedi Kurniawan,Es Campur,2,Menu terbatas dan tidak ada variasi. Es Campur perlu diperbaiki.,2025-07-12 09:26:20.736133,negative
+315,Ahmad Rahman,Es Campur,2,"Rasa tidak konsisten, kadang enak kadang tidak. Es Campur perlu diperbaiki.",2025-07-03 09:26:20.736133,negative
+316,Yuni Safitri,Soto Ayam,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Soto Ayam perlu diperbaiki.",2025-06-08 09:26:20.736133,negative
+317,Hendra Gunawan,Es Jeruk,4,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Es Jeruk sangat recommended!",2025-07-03 09:26:20.736133,positive
+318,Rina Marlina,Pisang Goreng,2,Harga mahal untuk kualitas yang biasa saja. Pisang Goreng perlu diperbaiki.,2025-05-08 09:26:20.736133,negative
+319,Hendra Gunawan,Es Jeruk,4,"Tempat strategis dan mudah dijangkau, parking juga luas. Es Jeruk sangat recommended!",2025-05-09 09:26:20.736133,positive
+320,Siti Nurhaliza,Soto Ayam,5,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Soto Ayam sangat recommended!",2025-06-28 09:26:20.736133,positive
+321,Joko Widodo,Gado-gado,3,Staff cukup ramah dalam melayani.,2025-07-15 09:26:20.736133,neutral
+322,Rudi Hartono,Mie Goreng,2,Harga mahal untuk kualitas yang biasa saja. Mie Goreng perlu diperbaiki.,2025-06-11 09:26:20.736133,negative
+323,Bambang Sutejo,Soto Ayam,5,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Soto Ayam sangat recommended!",2025-06-28 09:26:20.736133,positive
+324,Nina Wati,Ayam Goreng,5,Menu variatif dan ada pilihan untuk vegetarian. Ayam Goreng sangat recommended!,2025-06-24 09:26:20.736133,positive
+325,Rina Marlina,Es Campur,1,"Masakan terlalu asin dan berminyak, tidak sehat. Es Campur perlu diperbaiki.",2025-06-07 09:26:20.736133,negative
+326,Sari Indah,Sate Ayam,4,"Porsi besar dan harga terjangkau, worth it banget! Sate Ayam sangat recommended!",2025-06-13 09:26:20.736133,positive
+327,Bambang Sutejo,Es Teh Manis,1,"Porsi kecil untuk harga yang mahal, tidak worth it. Es Teh Manis perlu diperbaiki.",2025-07-16 09:26:20.736133,negative
+328,Ratna Sari,Es Teh Manis,1,"Tempat sempit dan berisik, tidak nyaman. Es Teh Manis perlu diperbaiki.",2025-06-18 09:26:20.736133,negative
+329,Lina Marlina,Es Campur,2,"Makanan kurang enak, rasanya hambar dan tidak sesuai harga. Es Campur perlu diperbaiki.",2025-06-11 09:26:20.736133,negative
+330,Rudi Hartono,Sate Ayam,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Sate Ayam sangat recommended!,2025-05-22 09:26:20.736133,positive
+331,Agus Setiawan,Es Teh Manis,2,"Porsi kecil untuk harga yang mahal, tidak worth it. Es Teh Manis perlu diperbaiki.",2025-06-16 09:26:20.736133,negative
+332,Agus Setiawan,Gado-gado,4,Menu variatif dan ada pilihan untuk vegetarian. Gado-gado sangat recommended!,2025-05-05 09:26:20.736133,positive
+333,Agus Setiawan,Sate Ayam,5,Menu variatif dan ada pilihan untuk vegetarian. Sate Ayam sangat recommended!,2025-07-10 09:26:20.736133,positive
+334,Lina Marlina,Nasi Goreng,2,"Makanan kurang enak, rasanya hambar dan tidak sesuai harga. Nasi Goreng perlu diperbaiki.",2025-05-05 09:26:20.736133,negative
+335,Maya Sari,Es Jeruk,3,Lokasi mudah dijangkau dengan transportasi umum.,2025-06-06 09:26:20.736133,neutral
+336,Bambang Sutejo,Es Teh Manis,1,Menu terbatas dan tidak ada variasi. Es Teh Manis perlu diperbaiki.,2025-05-02 09:26:20.736133,negative
+337,Rina Marlina,Pisang Goreng,3,"Makanan biasa saja, tidak ada yang istimewa.",2025-06-25 09:26:20.736133,neutral
+338,Rina Marlina,Ayam Goreng,3,Menu cukup variatif untuk ukuran restoran ini.,2025-05-21 09:26:20.736133,neutral
+339,Maya Sari,Nasi Goreng,4,"Bumbu pas dan tidak terlalu pedas, cocok untuk semua usia. Nasi Goreng sangat recommended!",2025-06-30 09:26:20.736133,positive
+340,Eko Prasetyo,Nasi Goreng,3,Staff cukup ramah dalam melayani.,2025-07-08 09:26:20.736133,neutral
+341,Sari Indah,Nasi Goreng,5,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Nasi Goreng sangat recommended!",2025-07-14 09:26:20.736133,positive
+342,Hendra Gunawan,Pisang Goreng,1,Harga mahal untuk kualitas yang biasa saja. Pisang Goreng perlu diperbaiki.,2025-06-10 09:26:20.736133,negative
+343,Budi Santoso,Es Teh Manis,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Es Teh Manis perlu diperbaiki.",2025-05-12 09:26:20.736133,negative
+344,Ratna Sari,Es Teh Manis,2,"Rasa tidak konsisten, kadang enak kadang tidak. Es Teh Manis perlu diperbaiki.",2025-07-23 09:26:20.736133,negative
+345,Agus Setiawan,Ayam Goreng,1,"Tempat sempit dan berisik, tidak nyaman. Ayam Goreng perlu diperbaiki.",2025-05-31 09:26:20.736133,negative
+346,Arief Budiman,Es Jeruk,1,"Porsi kecil untuk harga yang mahal, tidak worth it. Es Jeruk perlu diperbaiki.",2025-06-04 09:26:20.736133,negative
+347,Eko Prasetyo,Sate Ayam,2,"Masakan terlalu asin dan berminyak, tidak sehat. Sate Ayam perlu diperbaiki.",2025-05-31 09:26:20.736133,negative
+348,Rina Marlina,Mie Goreng,3,Staff cukup ramah dalam melayani.,2025-05-01 09:26:20.736133,neutral
+349,Siti Nurhaliza,Gado-gado,4,"Porsi besar dan harga terjangkau, worth it banget! Gado-gado sangat recommended!",2025-05-11 09:26:20.736133,positive
+350,Yuni Safitri,Pisang Goreng,2,"Pelayanan lambat, harus menunggu lama untuk pesanan. Pisang Goreng perlu diperbaiki.",2025-07-07 09:26:20.736133,negative
+351,Arief Budiman,Gado-gado,4,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Gado-gado sangat recommended!",2025-06-13 09:26:20.736133,positive
+352,Dedi Kurniawan,Ayam Goreng,3,"Pelayanan standar, tidak lambat tidak cepat.",2025-05-23 09:26:20.736133,neutral
+353,Sari Indah,Ayam Goreng,3,"Makanan biasa saja, tidak ada yang istimewa.",2025-07-24 09:26:20.736133,neutral
+354,Budi Santoso,Sate Ayam,4,Menu variatif dan ada pilihan untuk vegetarian. Sate Ayam sangat recommended!,2025-06-27 09:26:20.736133,positive
+355,Agus Setiawan,Mie Goreng,4,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Mie Goreng sangat recommended!",2025-05-10 09:26:20.736133,positive
+356,Agus Setiawan,Sate Ayam,5,"Porsi besar dan harga terjangkau, worth it banget! Sate Ayam sangat recommended!",2025-05-18 09:26:20.736133,positive
+357,Sari Indah,Sate Ayam,3,Harga terjangkau untuk kualitas yang diberikan.,2025-06-28 09:26:20.736133,neutral
+358,Dewi Putri,Es Jeruk,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Es Jeruk sangat recommended!,2025-06-06 09:26:20.736133,positive
+359,Eko Prasetyo,Ayam Goreng,1,Menu terbatas dan tidak ada variasi. Ayam Goreng perlu diperbaiki.,2025-05-31 09:26:20.736133,negative
+360,Yuni Safitri,Soto Ayam,4,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Soto Ayam sangat recommended!",2025-07-03 09:26:20.736133,positive
+361,Siti Nurhaliza,Sate Ayam,1,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Sate Ayam perlu diperbaiki.",2025-07-12 09:26:20.736133,negative
+362,Hendra Gunawan,Pisang Goreng,3,Harga sesuai dengan porsi yang diberikan.,2025-06-09 09:26:20.736133,neutral
+363,Agus Setiawan,Sate Ayam,2,"Porsi kecil untuk harga yang mahal, tidak worth it. Sate Ayam perlu diperbaiki.",2025-05-07 09:26:20.736133,negative
+364,Diana Putri,Sate Ayam,5,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Sate Ayam sangat recommended!",2025-06-04 09:26:20.736133,positive
+365,Siti Nurhaliza,Soto Ayam,3,"Pelayanan standar, tidak lambat tidak cepat.",2025-05-11 09:26:20.736133,neutral
+366,Budi Santoso,Nasi Goreng,2,"Rasa tidak konsisten, kadang enak kadang tidak. Nasi Goreng perlu diperbaiki.",2025-06-19 09:26:20.736133,negative
+367,Budi Santoso,Soto Ayam,4,"Tempat strategis dan mudah dijangkau, parking juga luas. Soto Ayam sangat recommended!",2025-05-05 09:26:20.736133,positive
+368,Agus Setiawan,Pisang Goreng,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Pisang Goreng sangat recommended!,2025-05-30 09:26:20.736133,positive
+369,Agus Setiawan,Pisang Goreng,4,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Pisang Goreng sangat recommended!",2025-06-22 09:26:20.736133,positive
+370,Bambang Sutejo,Pisang Goreng,2,Menu terbatas dan tidak ada variasi. Pisang Goreng perlu diperbaiki.,2025-07-10 09:26:20.736133,negative
+371,Maya Sari,Nasi Goreng,1,Menu terbatas dan tidak ada variasi. Nasi Goreng perlu diperbaiki.,2025-05-03 09:26:20.736133,negative
+372,Nina Wati,Ayam Goreng,2,"Tempat sempit dan berisik, tidak nyaman. Ayam Goreng perlu diperbaiki.",2025-06-26 09:26:20.736133,negative
+373,Rudi Hartono,Sate Ayam,2,Harga mahal untuk kualitas yang biasa saja. Sate Ayam perlu diperbaiki.,2025-06-25 09:26:20.736133,negative
+374,Nina Wati,Gado-gado,3,"Pelayanan standar, tidak lambat tidak cepat.",2025-06-24 09:26:20.736133,neutral
+375,Lina Marlina,Es Teh Manis,4,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Es Teh Manis sangat recommended!",2025-06-01 09:26:20.736133,positive
+376,Dewi Putri,Ayam Goreng,4,Rasa makanan konsisten dan selalu enak setiap kali datang. Ayam Goreng sangat recommended!,2025-07-25 09:26:20.736133,positive
+377,Agus Setiawan,Mie Goreng,1,Menu terbatas dan tidak ada variasi. Mie Goreng perlu diperbaiki.,2025-05-09 09:26:20.736133,negative
+378,Ahmad Rahman,Sate Ayam,1,"Tempat sempit dan berisik, tidak nyaman. Sate Ayam perlu diperbaiki.",2025-06-08 09:26:20.736133,negative
+379,Lina Marlina,Nasi Goreng,5,"Tempat strategis dan mudah dijangkau, parking juga luas. Nasi Goreng sangat recommended!",2025-06-20 09:26:20.736133,positive
+380,Rina Marlina,Ayam Goreng,4,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Ayam Goreng sangat recommended!",2025-07-21 09:26:20.736133,positive
+381,Yuni Safitri,Gado-gado,1,"Masakan terlalu asin dan berminyak, tidak sehat. Gado-gado perlu diperbaiki.",2025-06-03 09:26:20.736133,negative
+382,Maya Sari,Es Jeruk,2,Harga mahal untuk kualitas yang biasa saja. Es Jeruk perlu diperbaiki.,2025-06-30 09:26:20.736133,negative
+383,Siti Nurhaliza,Gado-gado,1,"Makanan kurang enak, rasanya hambar dan tidak sesuai harga. Gado-gado perlu diperbaiki.",2025-05-18 09:26:20.736133,negative
+384,Budi Santoso,Sate Ayam,5,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Sate Ayam sangat recommended!",2025-06-29 09:26:20.736133,positive
+385,Yuni Safitri,Soto Ayam,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Soto Ayam perlu diperbaiki.",2025-06-15 09:26:20.736133,negative
+386,Bambang Sutejo,Gado-gado,4,"Makanan sangat enak dan lezat, rasanya autentik! Gado-gado sangat recommended!",2025-07-07 09:26:20.736133,positive
+387,Bambang Sutejo,Pisang Goreng,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Pisang Goreng perlu diperbaiki.",2025-05-15 09:26:20.736133,negative
+388,Agus Setiawan,Nasi Goreng,4,"Makanan sangat enak dan lezat, rasanya autentik! Nasi Goreng sangat recommended!",2025-06-30 09:26:20.736133,positive
+389,Bambang Sutejo,Es Teh Manis,4,Rasa makanan konsisten dan selalu enak setiap kali datang. Es Teh Manis sangat recommended!,2025-06-12 09:26:20.736133,positive
+390,Eko Prasetyo,Soto Ayam,4,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Soto Ayam sangat recommended!",2025-06-18 09:26:20.736133,positive
+391,Ratna Sari,Es Campur,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Es Campur sangat recommended!",2025-05-13 09:26:20.736133,positive
+392,Lina Marlina,Gado-gado,4,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Gado-gado sangat recommended!",2025-07-08 09:26:20.736133,positive
+393,Dewi Putri,Gado-gado,4,"Makanan sangat enak dan lezat, rasanya autentik! Gado-gado sangat recommended!",2025-06-14 09:26:20.736133,positive
+394,Eko Prasetyo,Nasi Goreng,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Nasi Goreng perlu diperbaiki.",2025-05-08 09:26:20.736133,negative
+395,Maya Sari,Es Teh Manis,3,Staff cukup ramah dalam melayani.,2025-06-26 09:26:20.736133,neutral
+396,Nina Wati,Mie Goreng,3,Tempat cukup bersih dan nyaman.,2025-05-25 09:26:20.736133,neutral
+397,Budi Santoso,Es Teh Manis,1,"Porsi kecil untuk harga yang mahal, tidak worth it. Es Teh Manis perlu diperbaiki.",2025-05-16 09:26:20.736133,negative
+398,Ahmad Rahman,Pisang Goreng,4,"Bumbu pas dan tidak terlalu pedas, cocok untuk semua usia. Pisang Goreng sangat recommended!",2025-07-17 09:26:20.736133,positive
+399,Bambang Sutejo,Nasi Goreng,2,"Masakan terlalu asin dan berminyak, tidak sehat. Nasi Goreng perlu diperbaiki.",2025-05-06 09:26:20.736133,negative
+400,Bambang Sutejo,Soto Ayam,3,"Makanan biasa saja, tidak ada yang istimewa.",2025-05-02 09:26:20.736133,neutral
+401,Budi Santoso,Es Teh Manis,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Es Teh Manis sangat recommended!,2025-06-23 09:26:20.736133,positive
+402,Rudi Hartono,Soto Ayam,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Soto Ayam sangat recommended!,2025-06-17 09:26:20.736133,positive
+403,Hendra Gunawan,Pisang Goreng,4,Menu variatif dan ada pilihan untuk vegetarian. Pisang Goreng sangat recommended!,2025-07-13 09:26:20.736133,positive
+404,Dewi Putri,Pisang Goreng,5,Menu variatif dan ada pilihan untuk vegetarian. Pisang Goreng sangat recommended!,2025-07-21 09:26:20.736133,positive
+405,Joko Widodo,Pisang Goreng,4,Menu variatif dan ada pilihan untuk vegetarian. Pisang Goreng sangat recommended!,2025-07-03 09:26:20.736133,positive
+406,Budi Santoso,Sate Ayam,5,"Chef handal, masakan terasa profesional dan lezat. Sate Ayam sangat recommended!",2025-05-23 09:26:20.736133,positive
+407,Joko Widodo,Soto Ayam,1,"Rasa tidak konsisten, kadang enak kadang tidak. Soto Ayam perlu diperbaiki.",2025-05-26 09:26:20.736133,negative
+408,Ahmad Rahman,Pisang Goreng,1,"Porsi kecil untuk harga yang mahal, tidak worth it. Pisang Goreng perlu diperbaiki.",2025-07-17 09:26:20.736133,negative
+409,Diana Putri,Nasi Goreng,3,Harga sesuai dengan porsi yang diberikan.,2025-06-25 09:26:20.736133,neutral
+410,Dedi Kurniawan,Nasi Goreng,1,"Masakan terlalu asin dan berminyak, tidak sehat. Nasi Goreng perlu diperbaiki.",2025-06-07 09:26:20.736133,negative
+411,Nina Wati,Ayam Goreng,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Ayam Goreng perlu diperbaiki.",2025-05-13 09:26:20.736133,negative
+412,Budi Santoso,Soto Ayam,4,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Soto Ayam sangat recommended!",2025-06-04 09:26:20.736133,positive
+413,Joko Widodo,Mie Goreng,4,"Tempat strategis dan mudah dijangkau, parking juga luas. Mie Goreng sangat recommended!",2025-05-22 09:26:20.736133,positive
+414,Dedi Kurniawan,Ayam Goreng,4,"Bumbu pas dan tidak terlalu pedas, cocok untuk semua usia. Ayam Goreng sangat recommended!",2025-07-19 09:26:20.736133,positive
+415,Arief Budiman,Mie Goreng,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Mie Goreng sangat recommended!,2025-07-20 09:26:20.736133,positive
+416,Lina Marlina,Es Jeruk,2,"Rasa tidak konsisten, kadang enak kadang tidak. Es Jeruk perlu diperbaiki.",2025-06-24 09:26:20.736133,negative
+417,Lina Marlina,Pisang Goreng,5,"Porsi besar dan harga terjangkau, worth it banget! Pisang Goreng sangat recommended!",2025-07-23 09:26:20.736133,positive
+418,Arief Budiman,Nasi Goreng,2,"Tempat sempit dan berisik, tidak nyaman. Nasi Goreng perlu diperbaiki.",2025-07-23 09:26:20.736133,negative
+419,Joko Widodo,Gado-gado,3,"Makanan biasa saja, tidak ada yang istimewa.",2025-05-04 09:26:20.736133,neutral
+420,Diana Putri,Pisang Goreng,4,"Tempat strategis dan mudah dijangkau, parking juga luas. Pisang Goreng sangat recommended!",2025-07-17 09:26:20.736133,positive
+421,Nina Wati,Es Teh Manis,1,"Masakan terlalu asin dan berminyak, tidak sehat. Es Teh Manis perlu diperbaiki.",2025-06-11 09:26:20.736133,negative
+422,Hendra Gunawan,Sate Ayam,4,"Tempat strategis dan mudah dijangkau, parking juga luas. Sate Ayam sangat recommended!",2025-05-25 09:26:20.736133,positive
+423,Yuni Safitri,Pisang Goreng,2,"Masakan terlalu asin dan berminyak, tidak sehat. Pisang Goreng perlu diperbaiki.",2025-07-24 09:26:20.736133,negative
+424,Lina Marlina,Sate Ayam,2,"Porsi kecil untuk harga yang mahal, tidak worth it. Sate Ayam perlu diperbaiki.",2025-06-23 09:26:20.736133,negative
+425,Rina Marlina,Es Teh Manis,4,"Porsi besar dan harga terjangkau, worth it banget! Es Teh Manis sangat recommended!",2025-07-17 09:26:20.736133,positive
+426,Arief Budiman,Pisang Goreng,4,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Pisang Goreng sangat recommended!",2025-06-01 09:26:20.736133,positive
+427,Dedi Kurniawan,Gado-gado,2,"Rasa tidak konsisten, kadang enak kadang tidak. Gado-gado perlu diperbaiki.",2025-05-10 09:26:20.736133,negative
+428,Joko Widodo,Es Teh Manis,3,Lokasi mudah dijangkau dengan transportasi umum.,2025-06-23 09:26:20.736133,neutral
+429,Nina Wati,Sate Ayam,2,"Porsi kecil untuk harga yang mahal, tidak worth it. Sate Ayam perlu diperbaiki.",2025-07-30 09:26:20.736133,negative
+430,Ahmad Rahman,Gado-gado,1,"Tempat sempit dan berisik, tidak nyaman. Gado-gado perlu diperbaiki.",2025-06-14 09:26:20.736133,negative
+431,Agus Setiawan,Mie Goreng,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Mie Goreng sangat recommended!,2025-07-22 09:26:20.736133,positive
+432,Ratna Sari,Sate Ayam,4,"Makanan sangat enak dan lezat, rasanya autentik! Sate Ayam sangat recommended!",2025-06-18 09:26:20.736133,positive
+433,Eko Prasetyo,Gado-gado,4,"Tempat strategis dan mudah dijangkau, parking juga luas. Gado-gado sangat recommended!",2025-07-18 09:26:20.736133,positive
+434,Bambang Sutejo,Es Campur,1,"Makanan kurang enak, rasanya hambar dan tidak sesuai harga. Es Campur perlu diperbaiki.",2025-05-24 09:26:20.736133,negative
+435,Ahmad Rahman,Mie Goreng,4,"Makanan sangat enak dan lezat, rasanya autentik! Mie Goreng sangat recommended!",2025-07-14 09:26:20.736133,positive
+436,Dedi Kurniawan,Nasi Goreng,4,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Nasi Goreng sangat recommended!",2025-06-18 09:26:20.736133,positive
+437,Lina Marlina,Soto Ayam,1,"Tempat sempit dan berisik, tidak nyaman. Soto Ayam perlu diperbaiki.",2025-06-03 09:26:20.736133,negative
+438,Sari Indah,Es Campur,4,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Es Campur sangat recommended!",2025-07-26 09:26:20.736133,positive
+439,Ratna Sari,Pisang Goreng,5,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Pisang Goreng sangat recommended!",2025-05-22 09:26:20.736133,positive
+440,Dedi Kurniawan,Gado-gado,3,"Rasa makanan standar, tidak terlalu enak atau tidak enak.",2025-07-08 09:26:20.736133,neutral
+441,Siti Nurhaliza,Ayam Goreng,2,"Makanan kurang enak, rasanya hambar dan tidak sesuai harga. Ayam Goreng perlu diperbaiki.",2025-06-26 09:26:20.736133,negative
+442,Dedi Kurniawan,Nasi Goreng,4,Menu variatif dan ada pilihan untuk vegetarian. Nasi Goreng sangat recommended!,2025-05-01 09:26:20.736133,positive
+443,Joko Widodo,Ayam Goreng,2,"Rasa tidak konsisten, kadang enak kadang tidak. Ayam Goreng perlu diperbaiki.",2025-07-02 09:26:20.736133,negative
+444,Joko Widodo,Es Jeruk,1,"Porsi kecil untuk harga yang mahal, tidak worth it. Es Jeruk perlu diperbaiki.",2025-06-13 09:26:20.736133,negative
+445,Ahmad Rahman,Gado-gado,2,"Tempat sempit dan berisik, tidak nyaman. Gado-gado perlu diperbaiki.",2025-07-08 09:26:20.736133,negative
+446,Maya Sari,Sate Ayam,3,Tempat cukup bersih dan nyaman.,2025-05-24 09:26:20.736133,neutral
+447,Dewi Putri,Sate Ayam,4,"Tempat strategis dan mudah dijangkau, parking juga luas. Sate Ayam sangat recommended!",2025-07-29 09:26:20.736133,positive
+448,Lina Marlina,Ayam Goreng,3,"Makanan biasa saja, tidak ada yang istimewa.",2025-07-13 09:26:20.736133,neutral
+449,Sari Indah,Sate Ayam,4,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Sate Ayam sangat recommended!",2025-06-01 09:26:20.736133,positive
+450,Agus Setiawan,Soto Ayam,4,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Soto Ayam sangat recommended!",2025-06-13 09:26:20.736133,positive
+451,Maya Sari,Sate Ayam,2,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Sate Ayam perlu diperbaiki.",2025-06-11 09:26:20.736133,negative
+452,Lina Marlina,Gado-gado,3,Staff cukup ramah dalam melayani.,2025-05-19 09:26:20.736133,neutral
+453,Yuni Safitri,Sate Ayam,1,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Sate Ayam perlu diperbaiki.",2025-05-22 09:26:20.736133,negative
+454,Dedi Kurniawan,Nasi Goreng,5,"Chef handal, masakan terasa profesional dan lezat. Nasi Goreng sangat recommended!",2025-05-09 09:26:20.736133,positive
+455,Budi Santoso,Soto Ayam,5,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Soto Ayam sangat recommended!",2025-05-21 09:26:20.736133,positive
+456,Agus Setiawan,Soto Ayam,5,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Soto Ayam sangat recommended!",2025-06-19 09:26:20.736133,positive
+457,Rudi Hartono,Mie Goreng,4,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Mie Goreng sangat recommended!",2025-05-16 09:26:20.736133,positive
+458,Agus Setiawan,Gado-gado,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Gado-gado perlu diperbaiki.",2025-07-17 09:26:20.736133,negative
+459,Ahmad Rahman,Ayam Goreng,3,Tempat tidak terlalu besar tapi cukup nyaman.,2025-05-26 09:26:20.736133,neutral
+460,Bambang Sutejo,Sate Ayam,1,Menu terbatas dan tidak ada variasi. Sate Ayam perlu diperbaiki.,2025-05-04 09:26:20.736133,negative
+461,Agus Setiawan,Ayam Goreng,3,Harga sesuai dengan porsi yang diberikan.,2025-06-23 09:26:20.736133,neutral
+462,Eko Prasetyo,Nasi Goreng,3,Harga terjangkau untuk kualitas yang diberikan.,2025-07-20 09:26:20.736133,neutral
+463,Sari Indah,Pisang Goreng,1,"Masakan terlalu asin dan berminyak, tidak sehat. Pisang Goreng perlu diperbaiki.",2025-06-15 09:26:20.736133,negative
+464,Maya Sari,Es Teh Manis,2,Menu terbatas dan tidak ada variasi. Es Teh Manis perlu diperbaiki.,2025-05-30 09:26:20.736133,negative
+465,Diana Putri,Es Campur,5,"Makanan sangat enak dan lezat, rasanya autentik! Es Campur sangat recommended!",2025-06-25 09:26:20.736133,positive
+466,Bambang Sutejo,Gado-gado,4,Menu variatif dan ada pilihan untuk vegetarian. Gado-gado sangat recommended!,2025-05-03 09:26:20.736133,positive
+467,Sari Indah,Gado-gado,4,"Porsi besar dan harga terjangkau, worth it banget! Gado-gado sangat recommended!",2025-07-17 09:26:20.736133,positive
+468,Ratna Sari,Gado-gado,3,Harga sesuai dengan porsi yang diberikan.,2025-05-31 09:26:20.736133,neutral
+469,Yuni Safitri,Es Teh Manis,2,"Tempat sempit dan berisik, tidak nyaman. Es Teh Manis perlu diperbaiki.",2025-06-08 09:26:20.736133,negative
+470,Arief Budiman,Gado-gado,3,Tempat cukup bersih dan nyaman.,2025-06-03 09:26:20.736133,neutral
+471,Dedi Kurniawan,Ayam Goreng,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Ayam Goreng sangat recommended!",2025-05-15 09:26:20.736133,positive
+472,Sari Indah,Gado-gado,3,Lokasi mudah dijangkau dengan transportasi umum.,2025-06-17 09:26:20.736133,neutral
+473,Yuni Safitri,Es Jeruk,3,Menu cukup variatif untuk ukuran restoran ini.,2025-07-23 09:26:20.736133,neutral
+474,Lina Marlina,Soto Ayam,1,"Tempat sempit dan berisik, tidak nyaman. Soto Ayam perlu diperbaiki.",2025-05-02 09:26:20.736133,negative
+475,Ahmad Rahman,Es Campur,3,Harga terjangkau untuk kualitas yang diberikan.,2025-05-31 09:26:20.736133,neutral
+476,Budi Santoso,Soto Ayam,5,"Masakan rumahan yang enak, seperti masakan ibu sendiri. Soto Ayam sangat recommended!",2025-05-06 09:26:20.736133,positive
+477,Dewi Putri,Es Jeruk,5,"Makanan sangat enak dan lezat, rasanya autentik! Es Jeruk sangat recommended!",2025-07-11 09:26:20.736133,positive
+478,Ratna Sari,Ayam Goreng,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Ayam Goreng sangat recommended!",2025-05-03 09:26:20.736133,positive
+479,Bambang Sutejo,Soto Ayam,3,Menu cukup variatif untuk ukuran restoran ini.,2025-07-01 09:26:20.736133,neutral
+480,Diana Putri,Mie Goreng,4,"Bumbu pas dan tidak terlalu pedas, cocok untuk semua usia. Mie Goreng sangat recommended!",2025-06-30 09:26:20.736133,positive
+481,Ahmad Rahman,Sate Ayam,3,"Rasa makanan standar, tidak terlalu enak atau tidak enak.",2025-06-14 09:26:20.736133,neutral
+482,Dewi Putri,Pisang Goreng,4,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Pisang Goreng sangat recommended!",2025-06-29 09:26:20.736133,positive
+483,Dewi Putri,Ayam Goreng,3,Menu cukup variatif untuk ukuran restoran ini.,2025-06-03 09:26:20.736133,neutral
+484,Dewi Putri,Sate Ayam,4,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Sate Ayam sangat recommended!",2025-05-07 09:26:20.736133,positive
+485,Joko Widodo,Ayam Goreng,5,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Ayam Goreng sangat recommended!",2025-06-16 09:26:20.736133,positive
+486,Lina Marlina,Es Jeruk,1,"Pelayanan lambat, harus menunggu lama untuk pesanan. Es Jeruk perlu diperbaiki.",2025-05-05 09:26:20.736133,negative
+487,Dedi Kurniawan,Es Campur,4,"Porsi besar dan harga terjangkau, worth it banget! Es Campur sangat recommended!",2025-06-02 09:26:20.736133,positive
+488,Diana Putri,Gado-gado,5,"Bumbu pas dan tidak terlalu pedas, cocok untuk semua usia. Gado-gado sangat recommended!",2025-07-02 09:26:20.736133,positive
+489,Bambang Sutejo,Mie Goreng,1,Menu terbatas dan tidak ada variasi. Mie Goreng perlu diperbaiki.,2025-05-29 09:26:20.736133,negative
+490,Eko Prasetyo,Es Jeruk,2,Harga mahal untuk kualitas yang biasa saja. Es Jeruk perlu diperbaiki.,2025-05-12 09:26:20.736133,negative
+491,Dedi Kurniawan,Es Teh Manis,2,Staff kurang ramah dan tidak membantu. Es Teh Manis perlu diperbaiki.,2025-05-23 09:26:20.736133,negative
+492,Siti Nurhaliza,Ayam Goreng,5,"Tempat bersih dan nyaman, cocok untuk makan keluarga. Ayam Goreng sangat recommended!",2025-05-10 09:26:20.736133,positive
+493,Diana Putri,Nasi Goreng,4,"Tempat strategis dan mudah dijangkau, parking juga luas. Nasi Goreng sangat recommended!",2025-07-04 09:26:20.736133,positive
+494,Diana Putri,Mie Goreng,1,"Tempat kotor dan berantakan, tidak nyaman untuk makan. Mie Goreng perlu diperbaiki.",2025-05-30 09:26:20.736133,negative
+495,Rina Marlina,Sate Ayam,5,"Pelayanan cepat dan ramah, sangat puas dengan pengalaman makan di sini. Sate Ayam sangat recommended!",2025-06-04 09:26:20.736133,positive
+496,Siti Nurhaliza,Ayam Goreng,5,Rasa makanan konsisten dan selalu enak setiap kali datang. Ayam Goreng sangat recommended!,2025-07-17 09:26:20.736133,positive
+497,Agus Setiawan,Pisang Goreng,2,"Pelayanan lambat, harus menunggu lama untuk pesanan. Pisang Goreng perlu diperbaiki.",2025-05-25 09:26:20.736133,negative
+498,Nina Wati,Soto Ayam,2,"Masakan terlalu asin dan berminyak, tidak sehat. Soto Ayam perlu diperbaiki.",2025-06-02 09:26:20.736133,negative
+499,Rina Marlina,Mie Goreng,4,"Porsi besar dan harga terjangkau, worth it banget! Mie Goreng sangat recommended!",2025-07-24 09:26:20.736133,positive
+500,Rina Marlina,Gado-gado,3,"Rasa makanan standar, tidak terlalu enak atau tidak enak.",2025-05-29 09:26:20.736133,neutral

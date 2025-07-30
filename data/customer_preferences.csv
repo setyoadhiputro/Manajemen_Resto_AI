@@ -1,0 +1,101 @@
+customer_id,favorite_categories,favorite_ingredients,mood_preferences,avg_order_value,visit_frequency
+1,"Appetizer,Beverage,Main Course","telur,pisang","crispy,comfort",36693,6
+2,Dessert,"nasi,telur,mie","traditional,healthy,warm",44851,10
+3,Appetizer,"mie,telur,sayuran","protein,refreshing",16585,8
+4,"Appetizer,Main Course,Dessert","ayam,mie,nasi,telur","refreshing,traditional,sweet,quick",35580,1
+5,"Main Course,Dessert,Appetizer","mie,nasi,sayuran,telur","sweet,fresh",16708,7
+6,Soup,"ayam,mie,pisang,telur","traditional,sweet",27569,5
+7,Beverage,"telur,ayam,pisang","healthy,sweet",48509,9
+8,"Main Course,Dessert","pisang,sayuran,mie","quick,crispy,fresh,warm",48255,8
+9,"Appetizer,Dessert,Beverage","sayuran,telur,nasi","crispy,protein",35287,1
+10,"Soup,Main Course,Appetizer","sayuran,pisang,nasi","crispy,healthy,traditional",29006,3
+11,"Beverage,Main Course","pisang,nasi,mie,ayam","sweet,traditional",17630,6
+12,"Dessert,Appetizer,Beverage","telur,mie","crispy,warm",38520,5
+13,"Appetizer,Dessert","pisang,nasi,telur,ayam","crispy,warm",29614,3
+14,"Main Course,Appetizer","sayuran,mie,nasi","crispy,quick,warm,protein",32969,8
+15,"Beverage,Dessert","pisang,nasi,mie","crispy,fresh,warm,traditional",41859,9
+16,"Appetizer,Soup,Beverage","telur,mie","healthy,protein",46048,9
+17,"Dessert,Soup,Main Course","mie,nasi,sayuran,telur","quick,protein,healthy,fresh",24797,5
+18,Main Course,"sayuran,mie,pisang,ayam","fresh,crispy,sweet,comfort",46778,3
+19,Soup,"mie,nasi,sayuran","traditional,quick,refreshing,sweet",19090,2
+20,"Beverage,Appetizer,Dessert","ayam,pisang,telur,sayuran","traditional,quick",39029,10
+21,"Soup,Dessert","pisang,ayam,mie,sayuran","sweet,protein",33737,5
+22,"Beverage,Main Course","mie,pisang,sayuran,telur","quick,protein,comfort,refreshing",26570,1
+23,Main Course,"telur,ayam","traditional,fresh,sweet",30840,5
+24,Dessert,"pisang,mie,sayuran,ayam","fresh,crispy",29467,3
+25,"Beverage,Main Course,Appetizer","nasi,telur,ayam","protein,traditional",26774,2
+26,"Appetizer,Main Course,Dessert","pisang,mie,sayuran","warm,sweet,comfort,refreshing",19722,7
+27,Beverage,"pisang,sayuran","traditional,sweet,refreshing",40261,6
+28,Dessert,"pisang,ayam,sayuran","sweet,quick,comfort",22961,7
+29,Soup,"pisang,nasi","fresh,comfort,healthy",31871,8
+30,"Beverage,Appetizer","pisang,nasi","crispy,refreshing,quick,healthy",28040,6
+31,"Appetizer,Beverage,Soup","nasi,telur,mie,ayam","comfort,quick,warm",42695,1
+32,Main Course,"mie,ayam","fresh,protein,quick,traditional",21250,3
+33,"Beverage,Soup,Main Course","telur,sayuran,pisang,mie","quick,comfort",36180,3
+34,Soup,"pisang,ayam","healthy,traditional,fresh",34861,2
+35,"Appetizer,Soup","pisang,sayuran","warm,quick,sweet",15618,2
+36,"Dessert,Soup","sayuran,mie","healthy,crispy,traditional,refreshing",23492,8
+37,"Beverage,Soup,Dessert","pisang,telur","warm,quick,refreshing",46090,10
+38,"Dessert,Soup,Beverage","pisang,telur","refreshing,warm,crispy",37710,6
+39,"Beverage,Main Course,Dessert","mie,sayuran,nasi","sweet,comfort,healthy,crispy",30839,7
+40,Beverage,"sayuran,telur","crispy,comfort",39014,5
+41,Soup,"mie,pisang,ayam,sayuran","crispy,refreshing,protein,traditional",35185,3
+42,"Dessert,Appetizer","mie,nasi","refreshing,quick",26711,7
+43,"Appetizer,Beverage","mie,telur,sayuran,ayam","refreshing,quick",36516,9
+44,"Dessert,Soup","mie,pisang,telur,nasi","protein,fresh",29443,2
+45,Soup,"nasi,mie","healthy,comfort,warm,sweet",39887,7
+46,Beverage,"pisang,telur,ayam,sayuran","warm,refreshing,healthy",17803,1
+47,"Dessert,Appetizer","pisang,telur,mie","sweet,quick",34639,6
+48,Appetizer,"ayam,mie,telur","quick,refreshing",18657,7
+49,"Appetizer,Soup","sayuran,mie,pisang","traditional,sweet",19042,2
+50,"Dessert,Main Course","nasi,mie","healthy,comfort",18362,9
+51,Appetizer,"telur,pisang,nasi","fresh,sweet",36803,7
+52,"Main Course,Appetizer","telur,pisang,nasi,sayuran","refreshing,sweet",47654,4
+53,"Main Course,Beverage,Soup","mie,sayuran,telur","quick,sweet,comfort",36214,7
+54,"Dessert,Beverage","telur,mie,pisang,ayam","traditional,fresh,warm,sweet",36099,10
+55,"Beverage,Main Course","sayuran,nasi","comfort,refreshing",27477,3
+56,"Main Course,Dessert","nasi,ayam,telur,mie","healthy,refreshing,protein,warm",36445,3
+57,"Appetizer,Main Course","telur,ayam","quick,warm",40440,1
+58,Soup,"telur,ayam","protein,fresh,refreshing,sweet",38482,10
+59,"Appetizer,Main Course,Beverage","pisang,ayam,sayuran","refreshing,protein,crispy",49111,7
+60,"Appetizer,Dessert","ayam,mie","quick,warm",39963,6
+61,"Beverage,Soup,Main Course","ayam,pisang,telur","protein,fresh",43607,2
+62,Main Course,"pisang,ayam","fresh,comfort,protein",34867,7
+63,"Appetizer,Soup","nasi,pisang","warm,protein,comfort,sweet",21780,1
+64,"Dessert,Main Course,Appetizer","mie,pisang","refreshing,comfort",34005,1
+65,"Soup,Beverage","ayam,sayuran,telur","healthy,refreshing,warm,protein",26134,7
+66,"Soup,Beverage","pisang,sayuran,mie","fresh,comfort",27890,10
+67,"Soup,Main Course","ayam,telur,mie,sayuran","fresh,refreshing,protein,crispy",34519,4
+68,"Dessert,Appetizer,Main Course","telur,ayam","sweet,warm",27895,2
+69,Beverage,"ayam,nasi,sayuran","warm,healthy",37474,10
+70,"Soup,Dessert,Appetizer","sayuran,nasi","protein,quick,fresh,healthy",25585,10
+71,Appetizer,"ayam,sayuran,pisang","warm,comfort,protein",29334,1
+72,"Appetizer,Beverage","telur,sayuran","protein,warm,fresh",42609,6
+73,Soup,"ayam,mie,telur","protein,quick,healthy,refreshing",48459,1
+74,"Appetizer,Soup,Dessert","pisang,nasi,mie","protein,crispy",21166,9
+75,"Dessert,Beverage","nasi,ayam","traditional,fresh",37674,5
+76,"Soup,Main Course","mie,nasi","traditional,healthy,warm,refreshing",49575,4
+77,"Appetizer,Beverage","mie,nasi,pisang,sayuran","sweet,traditional,fresh",34007,4
+78,"Soup,Dessert","mie,pisang,nasi","protein,crispy,traditional,quick",30779,3
+79,"Dessert,Beverage,Appetizer","nasi,mie,telur,ayam","refreshing,warm",26226,10
+80,"Beverage,Appetizer","mie,pisang","protein,warm,healthy,quick",40680,4
+81,"Appetizer,Soup,Dessert","pisang,nasi,ayam,sayuran","traditional,comfort,sweet",39884,10
+82,"Beverage,Dessert,Appetizer","mie,sayuran,telur,pisang","sweet,protein,warm",39879,7
+83,"Appetizer,Dessert","pisang,sayuran","traditional,crispy",42827,2
+84,Dessert,"pisang,ayam,mie","crispy,comfort",17134,1
+85,"Beverage,Appetizer","telur,ayam","refreshing,protein,fresh,warm",25139,5
+86,"Main Course,Soup","ayam,nasi,pisang,sayuran","fresh,quick,comfort",47088,5
+87,"Appetizer,Main Course,Beverage","nasi,pisang","crispy,quick,fresh,traditional",19936,7
+88,Main Course,"nasi,ayam,sayuran,telur","protein,quick,traditional",15303,1
+89,"Appetizer,Beverage","sayuran,ayam,pisang,nasi","quick,comfort,protein,healthy",34053,10
+90,Soup,"pisang,telur,sayuran,ayam","comfort,sweet",45786,8
+91,Soup,"pisang,telur","fresh,refreshing,comfort",19696,10
+92,"Appetizer,Soup","pisang,telur,sayuran,ayam","quick,fresh,healthy,warm",46879,6
+93,Soup,"mie,nasi,telur,ayam","quick,comfort",39018,7
+94,"Main Course,Soup","pisang,sayuran,mie,nasi","warm,quick,fresh",48264,3
+95,"Dessert,Appetizer,Beverage","ayam,mie,pisang","warm,sweet,protein",19447,3
+96,"Dessert,Soup","mie,nasi,sayuran,telur","warm,traditional",46707,7
+97,"Soup,Dessert,Beverage","sayuran,mie,telur,ayam","sweet,quick",37385,2
+98,"Dessert,Appetizer,Main Course","nasi,sayuran,telur","healthy,crispy,sweet",32623,7
+99,"Dessert,Appetizer","sayuran,nasi","warm,comfort,quick,protein",41264,10
+100,"Dessert,Beverage,Appetizer","ayam,pisang,mie","healthy,fresh,traditional",31886,2

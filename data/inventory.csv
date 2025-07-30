@@ -1,0 +1,16 @@
+ingredient_name,current_stock,unit,reorder_point,last_updated,status
+nasi,5,kg,20,7/30/2025 14:26,Normal
+mie,7,kg,10,7/30/2025 14:26,Normal
+ayam,8,kg,15,7/30/2025 14:26,Normal
+telur,10,pcs,50,7/30/2025 14:26,Normal
+sayuran,26,kg,5,7/30/2025 14:26,Normal
+tepung,15,kg,8,7/30/2025 14:26,Normal
+minyak,5,liter,5,7/30/2025 14:26,Normal
+kacang,4,kg,3,7/30/2025 14:26,Normal
+kecap,2,liter,2,7/30/2025 14:26,Normal
+teh,2,kg,1,7/30/2025 14:26,Normal
+gula,16,kg,4,7/30/2025 14:26,Normal
+jeruk,59,kg,10,7/30/2025 14:26,Normal
+pisang,37,kg,8,7/30/2025 14:26,Normal
+santan,13,liter,2,7/30/2025 14:26,Normal
+buah,27,kg,5,7/30/2025 14:26,Normal
