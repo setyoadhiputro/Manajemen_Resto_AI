@@ -80,7 +80,7 @@ streamlit run app.py
 ```
 
 ### 3. Buka Browser
-Kunjungi `http://localhost:8501`
+Kunjungi `http://localhost:8501` atau 'https://manajemenrestoai-zoev9xhjluevpzt7wuqr7q.streamlit.app/'
 
 ## 📁 Struktur File
 
