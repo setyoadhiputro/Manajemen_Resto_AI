@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 # OpenRouter API configuration
-OPENROUTER_API_KEY = "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"  
+OPENROUTER_API_KEY = "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"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 def call_openrouter_api(messages):
